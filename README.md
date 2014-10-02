@@ -1,2 +1,4 @@
 begining-lua
 ============
+
+See PluralSight.
